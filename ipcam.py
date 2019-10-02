@@ -22,4 +22,5 @@ while True:
 		if cv2.waitKey(1) ==27:
     			exit(0)
 #write your programs here
-if(id==ttt)
+test ='123'
+
